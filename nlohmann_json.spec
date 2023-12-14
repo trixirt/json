@@ -42,8 +42,7 @@ quality, the project is following the Core Infrastructure Initiative
 
 %package devel
 
-Summary:        Headers and libraries for %{name}
-Requires:       %{name}%{?_isa} = %{version}-%{release}
+Summary:        JSON for Modern C++
 Provides:       %{name}-static = %{version}-%{release}
 
 %description devel
